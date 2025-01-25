@@ -1,1 +1,25 @@
-
+{
+  "display": false,
+  "content": [
+    {
+      "name": "John Doe",
+      "info": "CEO, Tech Innovators",
+      "src": "https://example.com/john_doe_image.jpg"
+    },
+    {
+      "name": "Jane Smith",
+      "info": "Partner, Global Ventures",
+      "src": "https://example.com/jane_smith_image.jpg"
+    },
+    {
+      "name": "Michael Johnson",
+      "info": "Director, Innovation Labs",
+      "src": "https://example.com/michael_johnson_image.jpg"
+    },
+    {
+      "name": "Emily Davis",
+      "info": "Founder, Startup Accelerator",
+      "src": "https://example.com/emily_davis_image.jpg"
+    }
+  ]
+}

@@ -4,13 +4,13 @@
 
 "content": [
     
-        "https://github.com/ecellnitk/website-content/blob/main/speakers/1.png?raw=true"
+        {"time":"31st Jan @6pm , SJA NITK","src":"https://github.com/ecellnitk/website-content/blob/main/speakers/1.png?raw=true"}
       ,
       
-        "https://github.com/ecellnitk/website-content/blob/main/speakers/2.png?raw=true"
+        {"time":"1st Feb @6pm , SJA NITK","src":"https://github.com/ecellnitk/website-content/blob/main/speakers/2.png?raw=true"}
   ,
        
-        "https://github.com/ecellnitk/website-content/blob/main/speakers/3.png?raw=true"
+        {"time":"2nd Feb @6pm , SJA NITK","src":"https://github.com/ecellnitk/website-content/blob/main/speakers/3.png?raw=true"}
     
 ]
   
